@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">Olá, seja bem vindo!!!</h1>
+<h1 align="center">Hello, Welcome to my Github!!!</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">- 🌍 Araraquara, SP<br>- 📚 Learning Python, SQL and PowerBI<br>- 🎓 Computer Science Student</p>
 
 ###
 
